@@ -1,6 +1,11 @@
 A multi-platform application that displays UTC time.  Useful for ham radio operators.
 
-![image](https://github.com/user-attachments/assets/d4a562c7-db33-48be-b0fb-3e0aa940483e)
+![image](https://github.com/gweep/AB2TS_NixieClock/blob/main/ScreenShots/Large_With_Date.tiff)
+
+
+![image](https://github.com/gweep/AB2TS_NixieClock/blob/main/ScreenShots/Small_No_Date.tiff)
+
+
 
 NOTE: I do not have access to all operating systems and machine types.  Given the complexities of writing a single app for multiple operating systems, I cannot guarantee that every item of text or button in the app is displayed optimally.  This application has been tested on the following computers.
 
