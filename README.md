@@ -4,7 +4,7 @@ A multi-platform application that displays UTC time.  Useful for ham radio opera
 
 NOTE: I do not have access to all operating systems and machine types.  Given the complexities of writing a single app for multiple operating systems, I cannot guarantee that every item of text or button in the app is displayed optimally.  This application has been tested on the following computers.
 
-Recent 64 bit Apple Intel and Apple Silicon (ARM) computers.
+Recent 64 bit Apple Intel and Apple Silicon (ARM) computers; MacOS 10.14 and higher.
 
 Virtualized Windows 10 & 11; 64 bit Intel and ARM.
 
