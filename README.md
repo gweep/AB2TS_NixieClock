@@ -7,11 +7,11 @@ A multi-platform application that displays UTC time.  Useful for ham radio opera
 
 
 
-NOTE: I do not have access to all operating systems and machine types.  Given the complexities of writing a single app for multiple operating systems, I cannot guarantee that every item of text or button in the app is displayed optimally.  This application has been tested on the following computers.
+NOTE: I do not have access to all operating systems and machine types.  Given the complexities of writing a single app for multiple operating systems, I cannot guarantee that every item of text or button in the app is displayed optimally.  This application has been tested on the following computers:
 
-Recent 64 bit Apple Intel and Apple Silicon (ARM) computers; MacOS 10.14 and higher.
-Virtualized Windows 10 & 11; 64 bit Intel and ARM.
-Virtualized Linux; 32 & 64 bit Intel and 64 bit ARM.
+*Recent 64 bit Apple Intel and Apple Silicon (ARM) computers; MacOS 10.14 and higher.
+*Virtualized Windows 10 & 11; 64 bit Intel and ARM.
+*Virtualized Linux; 32 & 64 bit Intel and 64 bit ARM.
 
 Extract the zip file in-place.  Do not change the folder names, the relative directory structure needs to remain intact.  On Linux machines you may have to designate the application as executable in the application's preference/info window.  Depending upon how you extract the zip file; the program may be buried in an extra layer of folders; I don't understand why.  It seems to be OK to move the inner most folder up a layer and delete the superfluous empty folder.  
 
