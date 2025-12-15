@@ -1,14 +1,25 @@
 A multi-platform application that displays UTC time.  Useful for ham radio operators.
 
-![image](https://github.com/user-attachments/assets/d4a562c7-db33-48be-b0fb-3e0aa940483e)
+![image](https://github.com/gweep/AB2TS_NixieClock/blob/main/ScreenShots/Large_With_Date.tiff)
+
+
+![image](https://github.com/gweep/AB2TS_NixieClock/blob/main/ScreenShots/Small_No_Date.tiff)
+
+
 
 NOTE: I do not have access to all operating systems and machine types.  Given the complexities of writing a single app for multiple operating systems, I cannot guarantee that every item of text or button in the app is displayed optimally.  This application has been tested on the following computers.
 
-Recent Apple Intel and Apple Silicon (ARM) computers.
+Recent 64 bit Apple Intel and Apple Silicon (ARM) computers; MacOS 10.14 and higher.
 
-Virtualized Windows 10 & 11.
+Virtualized Windows 10 & 11; 64 bit Intel and ARM.
 
-Virtualized Linux.
+Virtualized Linux; 32 & 64 bit Intel and 64 bit ARM.
+
+
+Extract the zip file in-place.  Do not change the folder names, the relative directory structure needs to remain intact.  On Linux machines you may have to designate the application as executable in the application's preference/info window.
+
+
+Depending upon how you extract the zip file; the program may be buried in an extra layer of folders; I don't understand why.  It seems to be OK to move the inner most folder up a layer and delete the superfluous empty folder.  
 
 
 Note: To install on a Raspberry Pi - Select the Linux Arm32 or Linux Arm64 version as appropriate.  
