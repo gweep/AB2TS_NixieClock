@@ -26,4 +26,6 @@ You will need to install the libunwind8 library on your Pi in order to run Nixie
 
 Note: NixieClock has a convenient Tool Bar with helpful icons that are used to set preferences.
 
-The NixieClock window always floats on top of all other application windows.  If you elect to hide the Tool Bar, you will need to access the preference settings via the NixieClock menu bar.  Depending upon your machine and operating system, the menu bar may not be immediately visible.  This is because even though the NixieClock window is always on top; the NixieClock app may not be the top most open application.  You may need to cycle through your open applications to find the NixieClock menu bar.  I am still working to have NixieClock play well with multiple monitors.  
+The NixieClock window always floats on top of all other application windows.  Depending upon your machine and operating system, the menu bar may not be immediately visible.  This is because even though the NixieClock window is always on top; the NixieClock app may not be the top most open application.  You may need to cycle through your open applications to find the NixieClock menu bar.  I am still working to have NixieClock play well with multiple monitors.  
+
+If you elect to hide the Tool Bar, you will need to access the Preference settings via the NixieClock menu bar.  
