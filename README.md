@@ -11,5 +11,18 @@ Virtualized Windows 10 & 11.
 Virtualized Linux.
 
 
-Note: The NixieClock window always floats on top of all other application windows.  NixieClock has a convenient Tool Bar with helpful icons that are used to set preferences.  If you elect to hide the Tool Bar, you will need to access the preference settings via the NixieClock menu bar.  Depending upon your machine and operating system, the menu bar may not be immediately visible.  This is because even though the NixieClock window is always on top; the NixieClock app may not be the top most open application.  You may need to cycle through your open applications to find the NixieClock menu bar.
+Note: To install on a Raspberry Pi - Select the Linux Arm32 or Linux Arm64 version as appropriate.  
 
+	* You will need to install the libunwind8 library on your Pi in order to run NixieClock. You can install the library from Terminal with this command:
+
+		sudo apt-get install libunwind8	
+		
+	* NixieClock will not run on the original Raspberry Pi or the Raspberry Pi Zero which have the older ARMv6.  
+
+	* NixieClock may run on similar "single-board" computers using the ARMv7 or later CPU.  Your milage may vary.
+
+
+
+Note: NixieClock has a convenient Tool Bar with helpful icons that are used to set preferences.  
+
+	The NixieClock window always floats on top of all other application windows.  If you elect to hide the Tool Bar, you will need to access the preference settings via the NixieClock menu bar.  Depending upon your machine and operating system, the menu bar may not be immediately visible.  This is because even though the NixieClock window is always on top; the NixieClock app may not be the top most open application.  You may need to cycle through your open applications to find the NixieClock menu bar.  I am still working to have NixieClock play well with multiple monitors.  
