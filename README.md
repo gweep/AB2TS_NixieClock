@@ -28,4 +28,4 @@ Note: NixieClock has a convenient Tool Bar with helpful icons that are used to s
 
 The NixieClock window always floats on top of all other application windows.  Depending upon your machine and operating system, the menu bar may not be immediately visible.  This is because even though the NixieClock window is always on top; the NixieClock app may not be the top most open application.  You may need to cycle through your open applications to find the NixieClock menu bar.  I am still working to have NixieClock play well with multiple monitors.  
 
-If you elect to hide the Tool Bar, you will need to access the Preference settings via the NixieClock menu bar.  
+If you elect to hide the Tool Bar, you will need to access the Preference settings via the NixieClock menu bar to un-hide it.  
